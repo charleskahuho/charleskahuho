@@ -1,6 +1,6 @@
+<p align="center"><img align="center" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt= "charles kahuho" width="100vw" /></p>
 <h1 align="center">Hi 👋, I'm Charles Kahuho</h1>
 <h3 align="center"> frontend developer from Kenya</h3>
-<img align="right" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt= "charles kahuho"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charleskahuho&label=Profile%20views&color=0e75b6&style=flat" alt="charleskahuho" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charleskahuho" alt="charleskahuho" /></a> </p>
